@@ -1,0 +1,15 @@
+.country__selections {
+  display: inline-block;
+  width: 30%;
+  height: 90%;
+  overflow-y: auto;
+  background-color: white;
+  padding: 0.2rem 1rem;
+  border-radius: 0.2rem;
+}
+.country__name {
+  margin: 0.2rem 0;
+  padding: 0.2rem 0;
+  list-style: none;
+  cursor: pointer;
+}

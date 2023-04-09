@@ -1,0 +1,26 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-color: gainsboro;
+  padding: 0.5rem;
+}
+
+.btn {
+  overflow: hidden;
+  border: 1px solid #18181a;
+  color: #18181a;
+  display: inline-block;
+  font-size: 1rem;
+  line-height: 1rem;
+  padding: 1rem 1rem 0.9rem;
+  text-decoration: none;
+  cursor: pointer;
+  background: #fff;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.btn:hover {
+  background-color: lightgrey;
+}

@@ -1,0 +1,25 @@
+.search {
+  margin-bottom: 1rem;
+  width: 30%;
+  display: inline-block;
+}
+.wrapper {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+
+  background-color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.2rem;
+}
+.icon {
+  cursor: pointer;
+  user-select: none;
+}
+.input {
+  width: 100%;
+  font-size: 0.1rem;
+  outline: none;
+  border: none;
+  font-size: large;
+}
